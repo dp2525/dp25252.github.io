@@ -1,0 +1,54 @@
+
+  body {
+   
+    font-family: Arial, sans-serif;
+    margin: 8%;
+    background-color: #5f45bb;
+    background-image: linear-gradient(to bottom right, #189cac, #d154e45d);
+  }
+  
+  h1 {
+    text-align: center;
+  }
+
+  /*.container{
+    display: inline;
+    margin-top: 10%;
+  
+  }*/
+ 
+  
+  label {
+    display: inline-block;
+    width: 60px;
+  }
+  
+  input[type="number"] {
+    width: 150px;
+  }
+  
+  .btn-container {
+    text-align: center;
+    margin-top: 5%;
+  }
+  
+  .result-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
+  #result {
+    font-weight: bold;
+  }
+  
+
+
+
+
+
+
+
+
+ 
+ 
+  
